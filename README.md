@@ -1,6 +1,7 @@
 Autoras:
 
 Gabriela Fraga Moreira Medeiros
+
 Patrícia Ferreira Lima
 
 Projeto em C# publicado na Azure.

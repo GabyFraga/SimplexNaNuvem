@@ -1,0 +1,51 @@
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe.config
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.pdb
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.Properties.Resources.resources
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.Tela.resources
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csproj.GenerateResource.Cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.exe
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.pdb
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.DadosSimplex.resources
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe.config
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.pdb
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.DadosSimplex.resources
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.Properties.Resources.resources
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.Tela.resources
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csproj.GenerateResource.Cache
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.exe
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.pdb
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csprojResolveAssemblyReference.cache
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe.manifest
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.application
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.exe.manifest
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.application
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patri\Desktop\2_2017\OS\TP\SimplexNaNuvem\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe.manifest
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.application
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.exe.manifest
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.application
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe.config
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe.manifest
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.application
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.exe
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\SimplexNaNuvem.pdb
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.DadosSimplex.resources
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.Properties.Resources.resources
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.Tela.resources
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csproj.GenerateResource.Cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.exe.manifest
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.application
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.exe
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexNaNuvem\obj\Debug\SimplexNaNuvem.pdb

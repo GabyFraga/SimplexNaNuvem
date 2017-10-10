@@ -1,0 +1,14 @@
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.AssemblyInfoInputs.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.AssemblyInfo.cs
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\bin\Debug\netcoreapp2.0\SimplexPatGaby.deps.json
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\bin\Debug\netcoreapp2.0\SimplexPatGaby.runtimeconfig.json
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\bin\Debug\netcoreapp2.0\SimplexPatGaby.runtimeconfig.dev.json
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\bin\Debug\netcoreapp2.0\SimplexPatGaby.dll
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\bin\Debug\netcoreapp2.0\SimplexPatGaby.pdb
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.AssemblyInfoInputs.cache
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.AssemblyInfo.cs
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.dll
+C:\Users\Gaby\Dropbox\PUC\CienciaDaComputacao\7° Período\Otimização de Sistemas\SimplexNaNuvem (com nuvem, com bug)\SimplexNaNuvem\SimplexPatGaby\obj\Debug\netcoreapp2.0\SimplexPatGaby.pdb

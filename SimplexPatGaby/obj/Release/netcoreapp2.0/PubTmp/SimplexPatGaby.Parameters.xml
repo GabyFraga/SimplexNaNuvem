@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SimplexPatGaby" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Gaby\\Dropbox\\PUC\\CienciaDaComputacao\\7°\ Período\\Otimização\ de\ Sistemas\\SimplexNaNuvem\ \(com\ nuvem,\ com\ bug\)\\SimplexNaNuvem\\SimplexPatGaby\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
